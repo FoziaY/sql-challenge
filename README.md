@@ -4,7 +4,7 @@
 This project involves organizing and analyzing employee data from the 1980s and 1990s at Pewlett Hackard. It covers data modeling, engineering, and analysis tasks.
 
 ## Project Structure
-- **Repository:** [sql-challenge](https://github.com/yourusername/sql-challenge)
+- **Repository:** [sql-challenge](https://github.com/FoziaY/sql-challenge)
 - **Local Directory:** EmployeeSQL
 
 ## Instructions
