@@ -18,7 +18,7 @@ Inspect the following CSV files, representing various aspects of employee data:
 - **salaries.csv:** Salary details
 - **titles.csv:** Employee titles
 
-Provide a simple diagram or table schemas for the data. For the Entity Relationship Diagram (ERD), refer to the [EDBdiagram](./EDBdiagram.png) image file located in the same folder as this README.
+ A simple diagram or table schemas for the data. For the Entity Relationship Diagram (ERD), refer to the [EDBdiagram](./EmployeeSQL/Image/quickdbdNewDiageram.PNG) image file located in the same folder as this README.
 
 ### Data Engineering
 - Create tables to store CSV data.
