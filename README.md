@@ -18,7 +18,7 @@ Inspect the following CSV files, representing various aspects of employee data:
 - **salaries.csv:** Salary details
 - **titles.csv:** Employee titles
 
- A simple diagram or table schemas for the data. For the Entity Relationship Diagram (ERD), refer to the [EDBdiagram](./EmployeeSQL/Image/quickdbdNewDiageram.PNG) image file located in the same folder as this README.
+ A simple diagram or table schemas for the data. For the Entity Relationship Diagram (ERD), refer to the image file.
 
 ### Data Engineering
 - Create tables to store CSV data.
@@ -42,11 +42,9 @@ Perform specific queries and provide the results in a .sql file.
 
 #### Average Salary by Gender
 - Analysis: Calculate the average salary for each gender and visualize the results.
-- Visualization: [Average Salary by Gender Chart](./average_salary_by_gender.png)
 
 #### Employee Distribution by Department
 - Analysis: Explore the distribution of employees across different departments.
-- Visualization: [Employee Distribution by Department Chart](./employee_distribution_by_department.png)
 
 ### Code Snippets
 - `schemata.sql`: Contains code snippets related to data engineering (table schemas).
