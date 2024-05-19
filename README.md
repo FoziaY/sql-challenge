@@ -1,5 +1,7 @@
 # Pewlett Hackard Data Engineering Project
 
+<img src="https://www.montecarlodata.com/wp-content/uploads/2023/08/what-is-a-data-engineering-workflow-1024x576.jpg" alt="Crowdfunding Project Analysis" style="width: 100%; height: auto;">
+
 ## Overview
 This project involves organizing and analyzing employee data from the 1980s and 1990s at Pewlett Hackard. It covers data modeling, engineering, and analysis tasks.
 
